@@ -7,8 +7,6 @@
 
 - 👨‍💻 You can find more stuff i'm doing at [https://maot.dev](https://maot.dev) (stills WIP)
 
-- 📝 Checkout my personal blog at [https://blog.maot.dev](https://blog.maot.dev) (soon TM)
-
 - 📫 Send me an email to **me@maot.dev**
 
 <h3 align="left">Connect with me:</h3>
