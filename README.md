@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/maotovisk" target="blank"><img src="https://img.shields.io/twitter/follow/maotovisk?logo=twitter&style=for-the-badge" alt="maotovisk" /></a> </p>
 
-- 🌱 I’m currently learning **dotnet5**
+- 🌱 I’m currently improving my knowledges in **dotnet**
 
 - 👨‍💻 You can find more stuff i'm doing at [https://maot.dev](https://maot.dev) (stills WIP)
 
