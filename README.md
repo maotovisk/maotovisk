@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently improving my knowledges in **dotnet**
 
-- 👨‍💻 You can find more stuff i'm doing at [https://maot.dev](https://maot.dev) (stills WIP)
-
+- 👨‍💻 You can find more stuff i'm doing at [https://maot.dev](https://maot.dev)
 - 📫 Send me an email to **me@maot.dev**
 
 <h3 align="left">Connect with me:</h3>
