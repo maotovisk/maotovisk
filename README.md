@@ -1,43 +1,46 @@
-<h1 align="center">👋 Greetings, I'm Lucas</h1>
-<h3 align="center">
-    A passionate software developer from Brazil 🇧🇷  building for the web, desktop, and beyond.</h3>
+<h1 align="center">hey there — I'm Lucas 👋</h1>
+<h3 align="center">building things for the web, the desktop, and whatever else piques my interest.</h3>
 
 <p align="center">
-  <a href="https://maot.dev" target="_blank"><strong>🌐 Visit my website »</strong></a>
+  <a href="https://maot.dev" target="_blank"><strong>Check out my personal website</strong></a>
 </p>
 
 ---
 
-- 💼 Developer at **KBRTec** since 2021
-- 🧠 Fullstack dev with strong backend focus — building robust enterprise solutions with **.NET**
-- ❤️ Fan of **FOSS** — I love open-source software and try to contribute when I can
-- 🧩 As a hobbyist, I enjoy creating tools that solve real problems — like my desktop app [**MapWizard**](https://github.com/maotovisk/mapwizard), built for the osu! mapping community
-- 🌱 Currently learning **Go** in my free time — loving the simplicity and performance!
+### About me
+
+- 💼 Currently building enterprise-grade backends at **KBRTec** (since 2021)
+- ⚙️ Fullstack developer who secretly prefers the backend
+- 🧠 Deep into **.NET**, comfortable in **Laravel**, and not afraid to peek into Node.js when needed
+- 🧩 I like making useful stuff — like [**MapWizard**](https://github.com/maotovisk/mapwizard), a toolkit for the osu! mappers out there
+- 🐧 Passionate about **open-source** — I try to give back when time allows
+- 🌱 Learning **Go** lately — minimalism and concurrency done right
 
 ---
 
-🧰 **Tech Stack**
+### Stacks I use regularly
 
 **Frontend**  
-→ TypeScript, Vue, React, Livewire, Alpine.js  
-→ Tailwind CSS, SCSS, HTML5, CSS3  
+→ TypeScript, Vue, React, Svelte, Livewire, Alpine.js 
+→ Tailwind CSS, SCSS, plain old HTML & CSS
 
 **Backend**  
-→ .NET (C#), Laravel (PHP), Node.js  
+→ .NET (C#), Laravel (PHP), Node.js, Java  
 
 **Databases**  
 → PostgreSQL, MySQL, SQL Server, MongoDB  
 
-**Other Tools**  
-→ Git, Docker, REST APIs, SignalR, Redis, FTP/CI Pipelines, Linux servers
+**Dev/Infra**  
+→ Git, Docker, REST APIs, SignalR, Redis  
+→ Linux servers, FTP/CI pipelines (Bitbucket, GitHub Actions, you name it)
 
 ---
 
-📫 **Reach out to me:**
+### Where to find me
 
-- Email: [me@maot.dev](mailto:me@maot.dev)
-- Twitter: [@maotovisk](https://twitter.com/maotovisk)
-- LinkedIn: [linkedin.com/in/maotovisk](https://www.linkedin.com/in/maotovisk/)
+- ✉️ Email: [me@maot.dev](mailto:me@maot.dev)  
+- 🐦 Twitter: [@maotovisk](https://twitter.com/maotovisk)  
+- 💼 LinkedIn: [linkedin.com/in/maotovisk](https://www.linkedin.com/in/maotovisk/)
 
 <p align="left">
   <a href="https://twitter.com/maotovisk" target="blank">
@@ -47,7 +50,7 @@
 
 ---
 
-📊 **GitHub Stats**
+### Stats, for those who like numbers
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maotovisk&show_icons=true&theme=default" alt="GitHub Stats" />
