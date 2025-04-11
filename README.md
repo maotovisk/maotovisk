@@ -21,8 +21,7 @@
 ### Stacks I use regularly
 
 **Frontend**  
-→ TypeScript, Vue, React, Svelte, Livewire, Alpine.js 
-→ Tailwind CSS, SCSS, plain old HTML & CSS
+ → TypeScript, Vue, React, Svelte, Livewir e, Alpine.js, Tailwind CSS, SCSS and plain old HTML & CSS 
 
 **Backend**  
 → .NET (C#), Laravel (PHP), Node.js, Java  
