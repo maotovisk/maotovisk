@@ -11,26 +11,29 @@
 
 - 💼 Currently building enterprise-grade backends at **KBRTec** (since 2021)
 - ⚙️ Fullstack developer who secretly prefers the backend
-- 🧠 Deep into **.NET**, comfortable in **Laravel**, and not afraid to peek into Node.js when needed
+- 🧠 Deep into **.NET** and **Laravel**, confortable with Node.js, not afraid to learn new stuff when needed
 - 🧩 I like making useful stuff — like [**MapWizard**](https://github.com/maotovisk/mapwizard), a toolkit for the osu! mappers out there
-- 🐧 Passionate about **open-source** — I try to give back when time allows
-- 🌱 Learning **Go** lately — minimalism and concurrency done right
+- 🐧 Passionate about **open-source** and **Linux** (shoutouts to my fellow Arch (btw) ricers!)
+- 🌱 Learning **Go** lately
 
 ---
 
 ### Stacks I use regularly
 
 **Frontend**  
- → TypeScript, Vue, React, Svelte, Livewir e, Alpine.js, Tailwind CSS, SCSS and plain old HTML & CSS 
+ → TypeScript, Vue, React, Svelte, Livewir e, Alpine.js, Tailwind CSS, SCSS and plain good old HTML & CSS for basic stuff
 
 **Backend**  
-→ .NET (C#), Laravel (PHP), Node.js, Java  
+→ .NET (C#), Laravel (PHP), Node.js, Java and Golang if im feeling like adventuring a little bit
+
+**Desktop**
+→ .NET/C# (AvaloniaUI, Uno Platform, Windows Forms), Rust (gtk-rs, slint, tauri), Electron, python (tk, gi/gtk4)
 
 **Databases**  
-→ PostgreSQL, MySQL, SQL Server, MongoDB  
+→ PostgreSQL, MySQL, MSSQL Server, SQLite and MongoDB - but I really like PostgreSQL
 
 **Dev/Infra**  
-→ Git, Docker, REST APIs, SignalR, Redis  
+→ Git, Docker, Redis, learning k8s
 → Linux servers, FTP/CI pipelines (Bitbucket, GitHub Actions, you name it)
 
 ---
