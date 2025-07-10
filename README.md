@@ -11,7 +11,7 @@
 
 - 💼 Currently building enterprise-grade backends at **KBRTec** (since 2021)
 - ⚙️ Fullstack developer who secretly prefers the backend
-- 🧠 Deep into **.NET** and **Laravel**, confortable with Node.js, not afraid to learn new stuff when needed
+- 🧠 Deep into **.NET** and **Laravel**, comfortable with Node.js, not afraid to learn new stuff when needed
 - 🧩 I like making useful stuff — like [**MapWizard**](https://github.com/maotovisk/mapwizard), a toolkit for the osu! mappers out there
 - 🐧 Passionate about **open-source** and **Linux** (shoutouts to my fellow Arch (btw) ricers!)
 - 🌱 Learning **Go** lately
