@@ -34,6 +34,7 @@
 
 **Dev/Infra**  
 → Git, Docker, Redis, learning k8s
+
 → Linux servers, FTP/CI pipelines (Bitbucket, GitHub Actions, you name it)
 
 ---
