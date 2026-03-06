@@ -1,68 +1,25 @@
-<h1 align="center">hey there — I'm Lucas 👋</h1>
-<h3 align="center">building things for the web, the desktop, and whatever else piques my interest.</h3>
+# Lucas Veiga - Fullstack Developer | .NET & Laravel
+Focused on building resilient enterprise backends and useful open-source tooling. 
 
-<p align="center">
-  <a href="https://maot.dev" target="_blank"><strong>Check out my personal website</strong></a>
-</p>
+[maot.dev](https://maot.dev) • [LinkedIn](https://www.linkedin.com/in/maotovisk/) • [Email](mailto:me@maot.dev) • [X/Twitter](https://twitter.com/maotovisk)
 
----
+## Work & Projects
 
-### About me
+* **Backend Engineering at KBRTec** (2021–Present): Developing enterprise-grade systems with a primary focus on architecture, reliability, and scaling backend services.
+* **osu! Tooling:** Building specialized utilities for the rhythm game community, including [MapWizard](https://github.com/maotovisk/mapwizard) and hitsound copying scripts.
+* **Infrastructure & Open Source:** Daily Arch Linux user. Focused on clean deployments using Docker, CI/CD pipelines, and exploring container orchestration with Kubernetes.
 
-- 💼 Currently building enterprise-grade backends at **KBRTec** (since 2021)
-- ⚙️ Fullstack developer who secretly prefers the backend
-- 🧠 Deep into **.NET** and **Laravel**, comfortable with Node.js, not afraid to learn new stuff when needed
-- 🧩 I like making useful stuff — like [**MapWizard**](https://github.com/maotovisk/mapwizard), a toolkit for the osu! mappers out there
-- 🐧 Passionate about **open-source** and **Linux** (shoutouts to my fellow Arch (btw) ricers!)
-- 🌱 Learning **Go** lately
+## Technical Stack
 
----
-
-### Stacks I use regularly
-
-**Frontend**  
- → TypeScript, Vue, React, Svelte, Livewir e, Alpine.js, Tailwind CSS, SCSS and plain good old HTML & CSS for basic stuff
-
-**Backend**  
-→ .NET (C#), Laravel (PHP), Node.js, Java and Golang if im feeling like adventuring a little bit
-
-**Desktop**
-→ .NET/C# (AvaloniaUI, Uno Platform, Windows Forms), Rust (gtk-rs, slint, tauri), Electron, python (tk, gi/gtk4)
-
-**Databases**  
-→ PostgreSQL, MySQL, MSSQL Server, SQLite and MongoDB - but I really like PostgreSQL
-
-**Dev/Infra**  
-→ Git, Docker, Redis, learning k8s
-
-→ Linux servers, FTP/CI pipelines (Bitbucket, GitHub Actions, you name it)
+* **Languages:** C# (.NET), PHP (Laravel), TypeScript/Node.js, Go, Rust, Java
+* **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, SQLite
+* **Frontend:** React, Next, Vue, Svelte, Tailwind CSS
+* **Desktop:** AvaloniaUI, WinForms, Tauri, Electron, GTK
+* **Infrastructure:** Linux, Docker, Redis, Kubernetes, GitHub Actions
 
 ---
 
-### Where to find me
-
-- ✉️ Email: [me@maot.dev](mailto:me@maot.dev)  
-- 🐦 Twitter: [@maotovisk](https://twitter.com/maotovisk)  
-- 💼 LinkedIn: [linkedin.com/in/maotovisk](https://www.linkedin.com/in/maotovisk/)
-
-<p align="left">
-  <a href="https://twitter.com/maotovisk" target="blank">
-    <img src="https://img.shields.io/twitter/follow/maotovisk?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
-  </a>
-</p>
-
----
-
-### Stats, for those who like numbers
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maotovisk&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=maotovisk&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maotovisk&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maotovisk&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maotovisk&layout=compact&langs_count=6&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
+</div>
