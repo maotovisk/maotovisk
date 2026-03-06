@@ -19,7 +19,7 @@ Focused on building resilient enterprise backends and useful open-source tooling
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maotovisk&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maotovisk&layout=compact&langs_count=6&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maotovisk&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+</p>
+
