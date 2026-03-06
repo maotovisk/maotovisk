@@ -19,7 +19,12 @@ Focused on building resilient enterprise backends and useful open-source tooling
 
 ---
 
- <p align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maotovisk&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=maotovisk&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maotovisk&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
 </p>
+
+
 
